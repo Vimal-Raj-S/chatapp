@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-c0zxyvi8v2=0()4)1$quxwczm3b-32nu0vycc^^v(c3t9577(f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['chat-app-vr.hrokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
